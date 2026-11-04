@@ -41,7 +41,7 @@ Arena, all Telegram alerts, the Steam tab…). Everything else is free.
 
 A **small one-time donation** unlocks the 💎 features.
 
-1. Join our Discord: [Secret Library](https://discord.gg/xUbAa4FdUQ)
+1. Join our Discord: [Secret Library](https://discord.gg/H24yEwScg5)
 2. Go to **#get-key** and click the button to open a ticket
 3. We reply in the ticket and send you your key
 4. In WoG Manager open **Settings → Supporter** and paste the key
@@ -87,7 +87,7 @@ e Arena automatici, tutti gli avvisi Telegram, la scheda Steam…). Tutto il res
 
 Con una **piccola donazione, una volta sola**, sblocchi le funzioni 💎.
 
-1. Entra nel nostro Discord: [Secret Library](https://discord.gg/xUbAa4FdUQ)
+1. Entra nel nostro Discord: [Secret Library](https://discord.gg/H24yEwScg5)
 2. Vai in **#get-key** e clicca il bottone per aprire un ticket
 3. Ti rispondiamo nel ticket e ti mandiamo la chiave
 4. In WoG Manager apri **Impostazioni → Supporter** e incolla la chiave
@@ -133,7 +133,7 @@ Questo repository contiene solo le versioni da scaricare (installer firmati e no
 
 **一次性小额捐助**即可解锁 💎 功能。
 
-1. 加入我们的 Discord：[Secret Library](https://discord.gg/xUbAa4FdUQ)
+1. 加入我们的 Discord：[Secret Library](https://discord.gg/H24yEwScg5)
 2. 进入 **#get-key** 频道，点击按钮开一个工单（ticket）
 3. 我们会在工单里回复你，并把 key 发给你
 4. 在 WoG Manager 中打开 **设置 → Supporter**，粘贴 key 即可
