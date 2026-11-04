@@ -1,0 +1,21 @@
+# Ogni release pubblicata qui (da windows/pubblica.py o a mano) viene annunciata in #updates su Discord.
+# Secret del repository: DISCORD_WEBHOOK (URL del webhook di #updates, senza /github).
+name: Annuncio su Discord
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  annuncio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          sparse-checkout: .github
+      - env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python3 .github/scripts/annuncio.py
