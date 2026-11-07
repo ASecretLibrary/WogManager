@@ -2,4 +2,4 @@
 
 {note}
 
-The app updates itself within a few hours, or download it here: {link}
+The app updates itself within a few hours, or download it here: <{link}>
